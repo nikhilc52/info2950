@@ -1,3 +1,0 @@
-netID: nc489
-netID: nsc49
-netID: nak79
