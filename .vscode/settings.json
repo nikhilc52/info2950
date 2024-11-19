@@ -1,0 +1,6 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "workbench.editorAssociations": {
+        "file:/**/*.csv": "jupyter-data-wrangler"
+    }
+}
