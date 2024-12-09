@@ -1,7 +1,4 @@
-<h1 style="text-align:center; font-size:30">Election Demographics</h1>
-
-<h4 style="text-align:center;">Nikhil Chinchalkar, Nihaal Konda, Nicholas Channg</h4>
-<h5 style="text-align:center;">Info 2950 | Phase V | Fall 2024</h5>
+# Election Demographics
 
 This is a repository for the Info 2950 overarching project. Our project is about election demographics and making voter turnout predictions.
 
