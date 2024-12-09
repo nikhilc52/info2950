@@ -1,11 +1,8 @@
-<h1 style="text-align:center; font-size:30">Election Demographics</h1>
-
-<h4 style="text-align:center;">Nikhil Chinchalkar, Nihaal Konda, Nicholas Channg</h4>
-<h5 style="text-align:center;">Info 2950 | Phase V | Fall 2024</h5>
+# Election Demographics
 
 This is a repository for the Info 2950 overarching project. Our project is about election demographics and making voter turnout predictions.
 
-Elections are multi-faceted events, and everything from campaigning to the vocabulary in candidate's speeches is carefully chosen and analyzed [[1](datascience.virginia.edu/projects/text-analysis-2020-us-presidential-election-campaign-speeches), UVA text-analysis of speeches]. However, an often overlooked [[2](https://www.rochester.edu/newscenter/what-is-voter-turnout-voting-behavior-625262/), article explaining voting turnout] aspect of the election is whether or not a U.S. Citizen will actually complete the political process. Our project seeks to address this issue by simply asking whether or not a given person (based on a number of factors) will actually cast their ballot. 
+Elections are multi-faceted events, and everything from campaigning to the vocabulary in candidate's speeches is carefully chosen and analyzed [[1](https://datascience.virginia.edu/projects/text-analysis-2020-us-presidential-election-campaign-speeches), UVA text-analysis of speeches]. However, an often overlooked [[2](https://www.rochester.edu/newscenter/what-is-voter-turnout-voting-behavior-625262/), article explaining voting turnout] aspect of the election is whether or not a U.S. Citizen will actually complete the political process. Our project seeks to address this issue by simply asking whether or not a given person (based on a number of factors) will actually cast their ballot. 
 
 Our main research question is: **can we predict the probability that a voting-eligible person living in the United States will actually vote?**
 
